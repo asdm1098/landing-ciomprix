@@ -33,7 +33,7 @@ export const Hero = () => {
     const customImg = styled(Box)
 
     return (
-        <Box sx={{ backgroundColor: "#262d32", minHeight: "80vh" }}>
+        <Box sx={{ backgroundColor: "#262d32" }}>
             <CustomBox>
                 <Navbar />
                 <Box 
